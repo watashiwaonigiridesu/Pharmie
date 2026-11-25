@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>Pharmie logo</title><rect width="512" height="512" rx="112" fill="#1C9BEF"/><path d="M112 72 L121 98 L147 107 L121 116 L112 142 L103 116 L77 107 L103 98 Z" fill="#FFFFFF"/>
+<path d="M226 56 L231 70 L245 75 L231 80 L226 94 L221 80 L207 75 L221 70 Z" fill="#FFFFFF"/>
+<circle cx="440" cy="440" r="9" fill="#FFFFFF" opacity="0.7"/><g transform="translate(256 270) scale(1.2) translate(-256 -297)"><g transform="rotate(-24 256 297)">
+  <rect x="110" y="215" width="300" height="164" rx="82" fill="#0E74C2" transform="translate(12 16)"/>
+  <rect x="110" y="215" width="300" height="164" rx="82" fill="#FFF4E6"/>
+  <path d="M260 215 H192 A82 82 0 0 0 192 379 H260 Z" fill="#EF3B4F"/>
+  <path d="M142 268 Q150 244 176 236" fill="none" stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M187 264 h22 v22 h22 v22 h-22 v22 h-22 v-22 h-22 v-22 h22 z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M260 221 V373" stroke="#17181C" stroke-width="10"/>
+  <rect x="110" y="215" width="300" height="164" rx="82" fill="none" stroke="#17181C" stroke-width="12"/>
+  <ellipse cx="292" cy="326" rx="12" ry="7" fill="#FF8FA3"/>
+  <ellipse cx="374" cy="326" rx="12" ry="7" fill="#FF8FA3"/>
+  <circle cx="306" cy="284" r="24" fill="#FFFFFF" stroke="#17181C" stroke-width="9"/>
+  <circle cx="358" cy="284" r="24" fill="#FFFFFF" stroke="#17181C" stroke-width="9"/>
+  <circle cx="300" cy="280" r="11" fill="#17181C"/>
+  <circle cx="352" cy="280" r="11" fill="#17181C"/>
+  <circle cx="297" cy="276" r="3.5" fill="#FFFFFF"/>
+  <circle cx="349" cy="276" r="3.5" fill="#FFFFFF"/>
+  <path d="M316 322 Q332 338 348 322" fill="none" stroke="#17181C" stroke-width="9" stroke-linecap="round"/>
+</g></g></svg>

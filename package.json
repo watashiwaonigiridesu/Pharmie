@@ -1,0 +1,30 @@
+{
+  "name": "pharmie",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Pharmie: what to take, what to avoid, when to get help.",
+  "type": "module",
+  "engines": {
+    "node": "20.x || 22.x"
+  },
+  "scripts": {
+    "predev": "node scripts/copy-ocr.mjs",
+    "dev": "vite",
+    "prebuild": "node scripts/copy-ocr.mjs",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@tesseract.js-data/eng": "^1.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tesseract.js": "^6.0.1",
+    "tesseract.js-core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8"
+  }
+}

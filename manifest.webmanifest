@@ -1,0 +1,12 @@
+{
+  "name": "Pharmie",
+  "short_name": "Pharmie",
+  "description": "What to take, what to avoid, when to get help.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EEF4F9",
+  "theme_color": "#3F6E99",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
